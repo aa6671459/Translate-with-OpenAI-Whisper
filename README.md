@@ -24,3 +24,5 @@ For NHU 10924203、10924207、10924308 AI Midterm
 <br>
   !whisper "要辨識的音檔" --task translate
 -
+# 參考網站
+[Google Colab+OpenAI Whisper](https://youtu.be/lPEcsxNaEzk)  <br>
